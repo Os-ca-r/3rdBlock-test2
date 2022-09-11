@@ -1,0 +1,54 @@
+.title {
+    text-align:center;
+    font-size:48px
+}
+th {
+    box-align:right;
+    text-align:justify
+}
+.table {
+    width:40%;
+    margin-top:10px;
+    border:none;
+    font-weight:bolder;
+}
+.link {
+    margin-top:70px;
+    margin-inline-start:350px;
+    margin-inline-end:350px;
+}
+.tb {
+    background-color: rgb(195, 27, 94);
+}
+a {
+    color:rgb(10, 182, 182)
+}
+li {
+    font-size:25px;
+}
+img {
+    width:450px;
+    height:300px
+}
+.center {
+    background-color:rgba(248, 248, 36, 0.889);
+    margin-inline:200px;
+}
+.page {
+    color:rgb(36, 223, 126)
+}
+.img {
+    margin-left:auto;
+    margin-right:auto;
+    display:block
+}
+.source {
+    text-align:center;
+    color:yellow
+
+}    
+
+html {
+    height:100%;
+    min-height:100%;
+}
