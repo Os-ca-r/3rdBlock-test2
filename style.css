@@ -11,14 +11,20 @@ th {
     margin-top:10px;
     border:none;
     font-weight:bolder;
+    background-color:rgba(220, 20, 60, 0.875)
 }
 .link {
     margin-top:70px;
     margin-inline-start:350px;
     margin-inline-end:350px;
+    background-color:rgba(220, 20, 60, 0.875);
+    
+    border-style:solid;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    
 }
 .tb {
-    background-color: rgb(195, 27, 94);
+    background-color:rgb(136, 124, 239);
 }
 a {
     color:rgb(10, 182, 182)
@@ -31,7 +37,7 @@ img {
     height:300px
 }
 .center {
-    background-color:rgba(248, 248, 36, 0.889);
+    background-color:rgb(136, 124, 239);
     margin-inline:200px;
 }
 .page {
@@ -51,4 +57,7 @@ img {
 html {
     height:100%;
     min-height:100%;
+}
+p > a {
+    color:red
 }
